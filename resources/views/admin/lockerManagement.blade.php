@@ -1,9 +1,5 @@
 @extends('layouts.adminNavbar')
 @section('content')
-<style>
-
-</style>
-
 <script>
     function updateLockerTable(lockers) {
     var tableBody = $('#lockerTableBody');
